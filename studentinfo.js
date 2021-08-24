@@ -1,0 +1,1 @@
+{"name":"蓝百灵","studentID":"1234","grade":"2022级","school":"美食家学院","major":"2022级"}
